@@ -1,5 +1,5 @@
 ## Full Stack Developer focused on task automation and data analysis.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,c#,python&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,py,ps,github,php&perline=9)](https://skillicons.dev)
 
 
 <!--
