@@ -1,4 +1,5 @@
-## Hi there 👋
+## Full Stack Developer focused on task automation and data analysis.
+?i=js,html,css
 
 <!--
 **nooowayyy/nooowayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
