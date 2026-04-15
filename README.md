@@ -1,5 +1,6 @@
 ## Full Stack Developer focused on task automation and data analysis.
-?i=js,html,css
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 <!--
 **nooowayyy/nooowayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
